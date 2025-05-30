@@ -3,4 +3,4 @@
 ### level -3 heading
 #### level -4 heading
 thus is in **bold**
-this is in **italic**
+this is in *italic*
